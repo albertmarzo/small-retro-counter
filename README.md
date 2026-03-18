@@ -4,4 +4,4 @@ This was a small project to get my hands on doing some interactive suff at small
 
 It wasn't the purpose of the current testing iteration I was doing. I was simply diving a little bit more into CSS and adding some intercation to the website.
 
-You can check the results [here](https://albertsmallretrocounter.netlify.app/)
+You can check [the live project deployed here](https://albertsmallretrocounter.netlify.app/)
