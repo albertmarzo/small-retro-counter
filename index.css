@@ -50,7 +50,7 @@ h3 {
 }
 .additive-buttons{
     display: flex;
-    justify-content: space-between; /* evenly distributes buttons */
+    justify-content: space-between;
     height: 45px;
     width: 155px; 
 }
